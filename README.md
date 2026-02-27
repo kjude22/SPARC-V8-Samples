@@ -11,10 +11,19 @@ RTEMS 실습 과정에서 실질적으로 도움이 되는 주요 내용만을 �
 본 자료가 SPARC 기반 시스템의 동작 원리를 이해하고
 디버깅 역량을 향상시키는 데 유용한 참고 자료가 되기를 바랍니다.
 
+
+
+## Installation and Debugging Environment Setup
+
+[Slide](./Slides/Renode_GR740_Installation_and_Debugging_Environment_Setup_v2.0.pdf)
+
+Renode 시뮬레이터와 GR740 SPARC 프로세서를 위한 VSCode 통합 디버깅 환경입니다. RTEMS 6 툴체인과 Renode 시뮬레이터가 포함된 사전 빌드된 Docker 이미지를 사용하여, 복잡한 설치 과정 없이 즉시 개발을 시작할 수 있습니다.
+
+
 ## 학습 순서
 
-1. [(1) IU](./%281%29%20IU)
-2. [(2) FPU](./%282%29%20FPU)
-3. [(3) Control Flow](./%283%29%20Control%20Flow)
-4. [(4) Procedure Call](./%284%29%20Procedure%20Call)
-5. [(5) Memory Alignment](./%285%29%20Memory%20Alignment)
+[(1) IU](./%281%29%20IU) - [Slide](./Slides/SPARC_V8_%281%29_IU_Practice.pdf)
+[(2) FPU](./%282%29%20FPU)   - [Slide](./Slides/SPARC_V8_(2)_FPU_Practice.pdf)
+[(3) Control Flow](./%283%29%20Control%20Flow) - [Slide](./Slides/SPARC_V8_(3)_Control_Flow_Practice.pdf)
+[(4) Procedure Call](./%284%29%20Procedure%20Call) - [Slide](./Slides/SPARC_V8_(4)_Procedure_Call_and_Stack_Practice.pdf)
+[(5) Memory Alignment](./%285%29%20Memory%20Alignment) - [Slide](./Slides/SPARC_V8_(5)_Memory_Alignment_Practice.pdf)
