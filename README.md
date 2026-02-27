@@ -10,3 +10,11 @@ RTEMS 실습 과정에서 실질적으로 도움이 되는 주요 내용만을 �
 
 본 자료가 SPARC 기반 시스템의 동작 원리를 이해하고
 디버깅 역량을 향상시키는 데 유용한 참고 자료가 되기를 바랍니다.
+
+## 학습 순서
+
+1. [(1) IU](./%281%29%20IU)
+2. [(2) FPU](./%282%29%20FPU)
+3. [(3) Control Flow](./%283%29%20Control%20Flow)
+4. [(4) Procedure Call](./%284%29%20Procedure%20Call)
+5. [(5) Memory Alignment](./%285%29%20Memory%20Alignment)
