@@ -13,14 +13,14 @@ RTEMS 실습 과정에서 실질적으로 도움이 되는 주요 내용만을 �
 
 
 
-### Installation and Debugging Environment Setup
+## Installation and Debugging Environment Setup
 
 [Slide](./Slides/Renode_GR740_Installation_and_Debugging_Environment_Setup_v2.0.pdf)
 
 Renode 시뮬레이터와 GR740 SPARC 프로세서를 위한 VSCode 통합 디버깅 환경입니다. RTEMS 6 툴체인과 Renode 시뮬레이터가 포함된 사전 빌드된 Docker 이미지를 사용하여, 복잡한 설치 과정 없이 즉시 개발을 시작할 수 있습니다.
 
 
-### Practical Exercise
+## Practical Exercise
 
 [(1) IU](./%281%29%20IU) - [Slide](./Slides/SPARC_V8_%281%29_IU_Practice.pdf)
 
