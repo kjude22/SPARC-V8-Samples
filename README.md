@@ -13,7 +13,7 @@ RTEMS 실습 과정에서 실질적으로 도움이 되는 주요 내용만을 �
 
 ## 학습 순서
 
-1. [(1) IU](./%281%29%20IU)
+1. [(1) IU](./%281%29%20IU)  -  ./SLides/Renode_GR740_Installation_and_Debugging_Environment_Setup_v2.0.pdf
 2. [(2) FPU](./%282%29%20FPU)
 3. [(3) Control Flow](./%283%29%20Control%20Flow)
 4. [(4) Procedure Call](./%284%29%20Procedure%20Call)
