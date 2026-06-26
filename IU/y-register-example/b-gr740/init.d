@@ -1,4 +1,4 @@
-b-gr740/main.o: main.c \
+b-gr740/init.o: init.c \
  /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs.h \
  /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs/obsolete.h \
  /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs/bdbuf.h \
@@ -214,13 +214,7 @@ b-gr740/main.o: main.c \
  /opt/rtems/6/sparc-rtems6/include/semaphore.h \
  /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/posix/shm.h \
  /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/posix/timer.h \
- /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs/wkspace.h \
- /opt/rtems/6/sparc-rtems6/include/stdio.h \
- /opt/rtems/6/lib/gcc/sparc-rtems6/13.3.0/include/stdarg.h \
- /opt/rtems/6/sparc-rtems6/include/sys/stdio.h \
- /opt/rtems/6/sparc-rtems6/include/stdlib.h \
- /opt/rtems/6/sparc-rtems6/include/machine/stdlib.h \
- /opt/rtems/6/sparc-rtems6/include/alloca.h
+ /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs/wkspace.h
 /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs.h:
 /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs/obsolete.h:
 /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs/bdbuf.h:
@@ -437,9 +431,3 @@ b-gr740/main.o: main.c \
 /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/posix/shm.h:
 /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/posix/timer.h:
 /opt/rtems/6/sparc-rtems6/gr740/lib/include/rtems/confdefs/wkspace.h:
-/opt/rtems/6/sparc-rtems6/include/stdio.h:
-/opt/rtems/6/lib/gcc/sparc-rtems6/13.3.0/include/stdarg.h:
-/opt/rtems/6/sparc-rtems6/include/sys/stdio.h:
-/opt/rtems/6/sparc-rtems6/include/stdlib.h:
-/opt/rtems/6/sparc-rtems6/include/machine/stdlib.h:
-/opt/rtems/6/sparc-rtems6/include/alloca.h:
